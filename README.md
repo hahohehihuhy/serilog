@@ -117,5 +117,3 @@ Would you like to help make Serilog even better? We keep a list of issues that a
 When contributing please keep in mind our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 _Serilog is copyright &copy; Serilog Contributors - Provided under the [Apache License, Version 2.0](https://apache.org/licenses/LICENSE-2.0.html). Needle and thread logo a derivative of work by [Kenneth Appiah](https://www.kensets.com/)._
-
-<!-- Dummy test change for verification -->
